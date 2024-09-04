@@ -21,6 +21,11 @@ A simple command-line interface (CLI) application to manage your expenses. The E
 - Python 3.x installed on your system.
 - Basic knowledge of using the terminal or command prompt.
 
+### Project URL
+    
+    https://roadmap.sh/projects/expense-tracker
+    
+
 ### Installation
 
 1. **Clone the Repository:**
